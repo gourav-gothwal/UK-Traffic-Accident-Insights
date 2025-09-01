@@ -1,0 +1,10 @@
+Ignore large raw data files
+data/raw/
+
+Ignore Python's cache files
+pycache/
+*.pyc
+
+Ignore environment files (if you use them)
+.env
+venv/
