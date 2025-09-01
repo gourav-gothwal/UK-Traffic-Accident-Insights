@@ -1,13 +1,4 @@
---- Core Libraries for Data and Visualization ---
-For data manipulation and reading CSV files
 pandas==2.2.2
-
-For creating the interactive charts and maps
 plotly==5.22.0
-
-The main web dashboard framework
 dash==2.17.0
-
---- Web Server for Deployment ---
-A production-grade web server required by platforms like Render to run the app
 gunicorn==22.0.0
